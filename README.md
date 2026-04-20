@@ -40,6 +40,22 @@ Interactive dashboard including:
 
 ---
 
+## 🖼️ Project Preview
+
+### 📁 Kaggle Dataset
+Add screenshot here and explain dataset columns, rows, and source.
+
+### 🐍 Python Analysis
+Add screenshot here and explain cleaning process, EDA, charts, or code snippets.
+
+### 🗄️ SQL Queries
+Add screenshot here and explain SQL joins, ranking queries, aggregations.
+
+### 📊 Power BI Dashboard
+Add screenshot here and explain KPI cards, filters, visuals, and insights.
+
+---
+
 ## 🎯 Project Goals
 
 ✔ Analyze vendor sales performance  
