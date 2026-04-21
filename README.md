@@ -46,7 +46,10 @@ Interactive dashboard including:
 Add screenshot here and explain dataset columns, rows, and source.
 
 ### 🐍 Python Analysis
-Add screenshot here and explain cleaning process, EDA, charts, or code snippets.
+<p align="center">
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/cumilativesales.png" alt="Cumilative analysis" width="800"/>
+</p>
+
 
 ### 🗄️ SQL Queries
 Add screenshot here and explain SQL joins, ranking queries, aggregations.
