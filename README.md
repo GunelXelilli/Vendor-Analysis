@@ -52,7 +52,10 @@ Add screenshot here and explain dataset columns, rows, and source.
 
 
 ### 🗄️ SQL Queries
-Add screenshot here and explain SQL joins, ranking queries, aggregations.
+<p align="center">
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/pretoanalissql.png" alt="Cumilative analysis" width="800"/>
+</p>
+
 
 ### 📊 Power BI Dashboard
 Add screenshot here and explain KPI cards, filters, visuals, and insights.
