@@ -47,7 +47,7 @@ Add screenshot here and explain dataset columns, rows, and source.
 
 ### 🐍 Python Analysis
 <p align="center">
-  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/cumilativesales.png" alt="Cumilative analysis" width="800"/>
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/cuman.png" alt="Cumilative analysis" width="800"/>
 </p>
 
 
