@@ -47,18 +47,21 @@ Add screenshot here and explain dataset columns, rows, and source.
 
 ### 🐍 Python Analysis
 <p align="center">
-  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/cuman.png" alt="Cumilative analysis" width="800"/>
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/cuman.png"  width="800"/>
 </p>
 
 
 ### 🗄️ SQL Queries
 <p align="center">
-  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/pretoanalissql.png" alt="Cumilative analysis" width="800"/>
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/pretoanalissql.png" width="800"/>
 </p>
 
 
 ### 📊 Power BI Dashboard
-Add screenshot here and explain KPI cards, filters, visuals, and insights.
+<p align="center">
+  <img src="https://github.com/GunelXelilli/Vendor-Analysis/blob/main/powerbidash.png" width="800"/>
+</p>
+
 
 ---
 
