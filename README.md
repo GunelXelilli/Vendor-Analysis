@@ -43,7 +43,19 @@ Interactive dashboard including:
 ## 🖼️ Project Preview
 
 ### 📁 Kaggle Dataset
-Add screenshot here and explain dataset columns, rows, and source.
+
+This project uses the **Vendor Performance Analysis** dataset from Kaggle.
+
+🔗 Kaggle Dataset: [Vendor Performance Analysis](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis)
+
+The dataset includes:
+- purchases.csv  
+- sales.csv  
+- begin_inventory.csv  
+- end_inventory.csv  
+- purchase_prices.csv  
+- vendor_invoice.csv  
+- vendor_sales_summary.csv  
 
 ### 🐍 Python Analysis
 <p align="center">
