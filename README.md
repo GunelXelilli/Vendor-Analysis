@@ -21,12 +21,16 @@ This repository contains **4 main files/projects**:
 - Exploratory Data Analysis (EDA)
 - KPI calculations
 - Trend analysis
+- Business Calculations(ABC Analysis,Cohort Analysis,Pareto Analysis (80/20)
+- Business Insights
 
 ### 🗄️ 3. Vendor SQLite / SQL Analysis
 - SQL queries for vendor insights
 - Revenue & sales reports
 - Ranking vendors by performance
 - Data extraction and filtering
+- Business calculations(Hypothesis Testing )
+- Business Insights
 
 ### 📊 4. Vendor Dashboard (Power BI)
 Interactive dashboard including:
